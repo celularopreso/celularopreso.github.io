@@ -1,0 +1,19 @@
+.portada{
+    text-align: center;
+}
+.cuerpo{
+    display: flex;
+    align-items: flex-start
+}
+.contenido{
+    margin: 10px 20px;  
+    width: 50%;
+}
+#parrafo{
+    text-align: justify;
+    white-space: pre-line;
+}
+.conclusión{
+    margin: 10px 20px;
+    width: 50%;
+}
