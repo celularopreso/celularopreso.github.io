@@ -1,1 +1,53 @@
 alabe12.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="estilos.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página_100%_Real_No_Fake</title>
+</head>
+<body>
+    <div class="portada">    
+        <h1 id="nombre">BEIMAR SERRUDO</h1>
+        <h4>ESTUDIANTE DE INGENIERÍA DE SISTEMAS</h4>  
+        <img src="FotoPortada.jpg.png" width="118px" height="125px">
+    </div>
+    <div class="cuerpo">
+        <div class="contenido">
+            <div class="motivacion">
+            <h2>MOTIVACIÓN</h2>
+                <hr size="4px" color="turquoise blue"  width="160px" align="left" border-radius="10px">
+                <p id="parrafo">Me apasiona el mundo digital y como evoluciona, así mismo las matemáticas no me desagradan del todo. Entre a la USFX de último momento, al ver que aún los cursos preuniversitarios seguían abiertos.
+                Elegí está universidad en concreto porque no solo buscaría obtener un título, sino formarme en un lugar donde realmente pueda crecer como persona y como profesional. Me fijé en la calidad de la enseñanza, en los docentes y en el enfoque práctico de la carrera, ya que en ingeniería en sistemas es fundamental aprender haciendo, resolviendo problemas reales y trabajando en proyectos que se acerquen a lo que se vive en el mundo laboral.
+                También me gustiaria decir que elegí una universidad donde el ambiente motive a superarse. Estar rodeado de compañeros con metas similares, que tengan ganas de aprender y de innovar, ayuda a mantenerse enfocado y a desarrollar habilidades como el trabajo en equipo, la comunicación y la responsabilidad. Consido importante que la institución ofrezca recursos, talleres, acceso a tecnología y oportunidades para seguir aprendiendo más allá de las clases.
+                Me gustaria desarrollar más mis habilidades en este ámbito con ayuda de los docentes y siendo autodidacta.
+                Desde el colegio intentaba desarrollar mis habilidades en programación, pero no tuve tiempo suficiente para profundizarlas, espero poder profundizarlas en la universidad aprendiendo por mi cuenta. Aprendí lo básico de Python y JavaScript, pero prefiero Python por su simplicidad y versatilidad, aunque también me gustaría aprender otros lenguajes como C++ o JavaScript en el futuro.
+                Me motivaría saber que con lo que aprenda podría crear soluciones reales, desde algo sencillo que facilite una tarea hasta sistemas que ayuden a muchas personas. También me gustaría porque es una carrera que exige pensar, resolver problemas y aprender constantemente, y eso evita que todo se vuelva monótono. 
+                Saber que el esfuerzo puede convertirse en proyectos propios, oportunidades laborales y la posibilidad de innovar sería una razón fuerte para seguir adelante incluso cuando el aprendizaje se vuelva difícil.</p>
+            </div>
+            <div class="educación previa">
+            <h2>EDUCACIÓN PREVIA</h2>
+                <hr size="4px" color="turquoise blue" width="240px" align="left" border-radius="10px">
+                <p>Cursé tanto el nivel primario como secundario en el colegio Gregorio Barriga de la ciudad de Potosí</p>
+            </div>
+            <div class="gustos">  
+            <h2>GUSTOS</h2>
+                <hr size="4px" color="turquoise blue" width="90px" align="left" border-radius="5px">
+                <p>Me gustan los videojuegos especialmente de peleas 1v1.<br>Algunos deportes que practique son el basquetbol, natación y judo.</p>
+            </div>
+        </div>
+        <div class="conclusión">
+            <div class="contactos">
+                <h2>CONTACTOS</h2>
+                <hr size="4px" color="black" width="140px" align="left" border-radius="5px">
+                <p>📞<strong>(+591) 69648779</strong></p>
+                <p>📧<strong>alabe2296@gmail.com</strong></p>
+            </div>
+            <div class="lenguajes">
+                <h2>LENGUAJES QUE HE APRENDIDO</h2>
+                <hr size="4px" color="black" width="390px" align="left">     
+                <p>INGLÉS A2.<br>
+        </div>
+    </div>
+    </html>
