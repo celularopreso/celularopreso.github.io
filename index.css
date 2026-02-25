@@ -1,19 +1,42 @@
 .portada{
     text-align: center;
+    padding: 30px;
+}
+.container{
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    width: 80%;
 }
 .cuerpo{
     display: flex;
+    gap: 30px;
     align-items: flex-start
 }
 .contenido{
-    margin: 10px 20px;  
-    width: 50%;
+    width: 45%;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    text-align: justify;
 }
 #parrafo{
     text-align: justify;
     white-space: pre-line;
 }
-.conclusión{
-    margin: 10px 20px;
-    width: 50%;
+.conclusión{   
+    width: 35%;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    text-align: justify;
+}
+.contenido p,
+.conclusión p{
+    line-height: 1.5;
+}
+h2{
+    letter-spacing: 1px;
 }
